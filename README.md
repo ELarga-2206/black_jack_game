@@ -1,6 +1,6 @@
 **Code created by Solomon Leo / solomonleo12345**
    
-  -> https://github.com/solomonleo12345 / 
+  -> https://github.com/solomonleo12345 
   
   -> https://github.com/solomonleo12345/BLACKJACK-Game
 
